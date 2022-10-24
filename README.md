@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, C# and Python
 - 💞️ I’m looking to collaborate on ... (?)
-- 📫 How to reach me (telegram)
+- 📫 How to reach me: Telegram: @issaeternal 
+
 
 <!---
 zhambalov/zhambalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
