@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, C# and Python
 - 💞️ I’m looking to collaborate on ... (?)
-- 📫 How to reach me: Telegram: @issaeternal 
+- 📫 Telegram: @issaeternal 
 
 
 <!---
