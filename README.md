@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhambalov
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML&CSS
+- 🌱 I’m currently learning C#, JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (telegram)
 
